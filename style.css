@@ -6,6 +6,7 @@ html {
     font-family: "Dos Vga";
     background: black;
     color:white;
+    border-style:dashed
 }
 #am{
    text-align: bottom;
