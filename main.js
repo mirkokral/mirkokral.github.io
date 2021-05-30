@@ -1,5 +1,5 @@
 function Window(){
-    new WinBox("WinBox.js", {
+    new WinBox("Window", {
         url: "window.html"
     });
 }
