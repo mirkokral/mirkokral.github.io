@@ -1,2 +1,2 @@
-# mirkokral.github.io
+mirkokral.github.io
 My small webpage
