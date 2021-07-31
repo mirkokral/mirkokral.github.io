@@ -1,2 +1,2 @@
-<p>mirkokral.github.io</p>
+###mirkokral.github.io
 My small webpage for sharing things
