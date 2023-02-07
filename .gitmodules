@@ -1,0 +1,3 @@
+[submodule "nbsplayer"]
+	path = nbsplayer
+	url = https://github.com/mirkokral/NBSPlayer
